@@ -1,0 +1,7 @@
+fruits = ["Apple", "Banana", "Cherry", "Date", "Elderberry", "Fig", "Grape", "Honeydew", "Kiwi", "Lemon",]
+# print the 6th fruit (index 5)
+print("6th fruit:", fruits[5])
+
+# change the 2nd fruit (index 1) to "Mango"
+fruits[1] = "Mango"
+print("Updated fruits list:", fruits)
